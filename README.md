@@ -16,20 +16,6 @@ I’m especially passionate about **environmental data** and studying **climate 
 
 ---
 
-## 🔭 I’m currently working on…
-
-
-A neural network model to predict stock prices for major U.S. defense companies using historical pricing + engineered features.
-
----
-
-## 🌱 I’m currently learning…
-
-* Fine-tuning neural networks for time-series forecasting
-* Advanced optimization methods & model interpretability
-
----
-
 ## 💬 Ask me about…
 
 * How to turn messy real-world data into structured insights
